@@ -1,0 +1,54 @@
+{
+  "site_name": "YourProject",
+  "tagline": "Prototype your future website",
+  "colors": {
+    "primary": "#1D4ED8",  
+    "secondary": "#9333EA", 
+    "background": "#F1F5F9", 
+    "text": "#1F2937" 
+  },
+  "logo": "assets/logo.png",
+  "nav_links": [
+    {"name": "Home", "url": "/"},
+    {"name": "About", "url": "/about"},
+    {"name": "Services", "url": "/services"}
+  ],
+  "hero": {
+    "title": "Welcome to Your Future",
+    "description": "Get started today and transform your ideas into reality.",
+    "cta_button": {
+      "text": "Learn More",
+      "url": "/learn-more"
+    }
+  },
+  "testimonials": [
+    {
+      "name": "John Doe",
+      "quote": "Excellent service, exceeded my expectations!",
+      "image": "assets/john.jpg"
+    },
+    {
+      "name": "Jane Smith",
+      "quote": "A game-changer for my business. Highly recommended.",
+      "image": "assets/jane.jpg"
+    }
+  ],
+  "footer": {
+    "links": [
+      {"name": "Privacy Policy", "url": "/privacy"},
+      {"name": "Terms of Service", "url": "/terms"}
+    ],
+    "copyright": "© 2025 YourCompany"
+  },
+  "sections": [
+    {
+      "title": "Our Services",
+      "content": "We offer top-notch web development, SEO, and marketing services."
+    },
+    {
+      "title": "Why Choose Us?",
+      "content": "We focus on customer satisfaction and deliver exceptional results."
+    }
+  ],
+  "current_year": "2025"
+}
